@@ -69,10 +69,11 @@ Google will show you a 16-character password like:
 xxxx xxxx xxxx xxxx
 
 ## 📸 Screenshots
-<img width="836" height="619" alt="image" src="https://github.com/user-attachments/assets/14acc427-d8d9-41f7-8d29-cfeed920fd50" />
-<img width="1881" height="846" alt="image" src="https://github.com/user-attachments/assets/19894e9d-29be-4bb2-841f-4cb9e1895b14" />
-<img width="1870" height="851" alt="image" src="https://github.com/user-attachments/assets/ac7d5962-9dea-43c4-b667-398b6b60b351" />
-<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/894eebfa-4948-40fc-a2ae-684f5f2759d1" />
+<img width="1881" height="849" alt="image" src="https://github.com/user-attachments/assets/c165dfcd-b2ad-45d6-8ba5-433b7d4cf483" />
+<img width="1885" height="844" alt="image" src="https://github.com/user-attachments/assets/533272a0-d598-497f-8ba8-3cb2008d1cf0" />
+<img width="1878" height="855" alt="image" src="https://github.com/user-attachments/assets/25c433d2-f43a-48a8-9096-4d95285e86e4" />
+<img width="722" height="945" alt="image" src="https://github.com/user-attachments/assets/291897a6-a2cc-4c0e-a087-254585340116" />
+
 
 
 ## 📄 License
